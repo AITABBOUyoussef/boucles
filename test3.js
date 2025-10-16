@@ -7,7 +7,7 @@ if (nb === 0 ){
     break;
     }
    
-    if (nb > 100) { 
+    if (nb > 99 ) { 
   console.log ("Ce nombre est superieur a 100 et sera ingnore ");
   continue   
     }
